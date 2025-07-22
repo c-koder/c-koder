@@ -2,8 +2,6 @@
 
 # Hello! Welcome to my profile.
 
-I'm a final year undergraduate at Sabaragamuwa University of Sri Lanka.
-
 ## GitHub Stats
 ![c-koder's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-koder&show_icons=true&theme=tokyonight)
 <!-- Alt text for GitHub stats image: "GitHub Stats for c-koder" -->
